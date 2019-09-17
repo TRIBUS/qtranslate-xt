@@ -84,7 +84,7 @@
 
 		});
 
-		//qTranslateConfig.qtx.addContentHooksTinyMCE();
+		qTranslateConfig.qtx.addContentHooksTinyMCE();
 
 		// Watch and remove content hooks when fields are removed
 		// however ACF removes the elements from the DOM early so
